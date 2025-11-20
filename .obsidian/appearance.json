@@ -1,1 +1,8 @@
-{}
+{
+  "theme": "moonstone",
+  "cssTheme": "AnuPpuccin",
+  "interfaceFontFamily": "EnvyCodeR Nerd Font",
+  "textFontFamily": "EnvyCodeR Nerd Font",
+  "monospaceFontFamily": "EnvyCodeR Nerd Font",
+  "accentColor": "#e15b5b"
+}
