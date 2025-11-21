@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10562110c3cfc7e6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "705ee4534e27b01b",
             "type": "leaf",
             "state": {
@@ -84,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +180,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "18f47460b6435cd5",
+  "active": "b41947d18571ac54",
   "lastOpenFiles": [
     "mooc-ncsa/101-redis-slave-master-mode.md",
     "mooc-ncsa/134-blind-command-injection.md",
