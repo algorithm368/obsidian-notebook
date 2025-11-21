@@ -4,5 +4,9 @@
   "interfaceFontFamily": "EnvyCodeR Nerd Font",
   "textFontFamily": "EnvyCodeR Nerd Font",
   "monospaceFontFamily": "EnvyCodeR Nerd Font",
-  "accentColor": "#e15b5b"
+  "accentColor": "#e15b5b",
+  "showRibbon": false,
+  "translucency": false,
+  "showViewHeader": false,
+  "enabledCssSnippets": []
 }
