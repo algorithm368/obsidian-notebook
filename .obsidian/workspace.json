@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mooc-ncsa/135-command-injection-filter.md",
+                "file": "mooc-ncsa/100-redis-backdoor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "135-command-injection-filter"
+              "title": "100-redis-backdoor"
             }
           }
         ]
@@ -182,9 +182,9 @@
   },
   "active": "cf59a743f1e33c65",
   "lastOpenFiles": [
+    "mooc-ncsa/133-command-injection.md",
     "mooc-ncsa/135-command-injection-filter.md",
     "mooc-ncsa/134-command-injection-blind.md",
-    "mooc-ncsa/133-command-injection.md",
     "mooc-ncsa/100-redis-backdoor.md",
     "2025-11-21.md",
     "mooc-ncsa/ocsp",
