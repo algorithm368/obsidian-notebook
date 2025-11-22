@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mooc-ncsa/100-redis-backdoor.md",
+                "file": "kali/1-setup-kali.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "100-redis-backdoor"
+              "title": "1-setup-kali"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,10 +183,12 @@
   },
   "active": "cf59a743f1e33c65",
   "lastOpenFiles": [
+    "mooc-ncsa/100-redis-backdoor.md",
+    "kali/1-setup-kali.md",
+    "kali",
     "mooc-ncsa/133-command-injection.md",
     "mooc-ncsa/135-command-injection-filter.md",
     "mooc-ncsa/134-command-injection-blind.md",
-    "mooc-ncsa/100-redis-backdoor.md",
     "2025-11-21.md",
     "mooc-ncsa/ocsp",
     "mooc-ncsa/101-redis-slave-master-mode.md",
