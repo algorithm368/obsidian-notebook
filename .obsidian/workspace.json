@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kali/1-setup-kali.md",
+                "file": "mooc-ncsa/134_cmd-injection-blind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-setup-kali"
+              "title": "134_cmd-injection-blind"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "5bdb08b6bd33b453",
@@ -95,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mooc-ncsa/134_cmd-injection-blind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 134_cmd-injection-blind"
             }
           },
           {
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mooc-ncsa/134_cmd-injection-blind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 134_cmd-injection-blind"
             }
           },
           {
@@ -155,15 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "mooc-ncsa/134_cmd-injection-blind.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 134_cmd-injection-blind"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,12 +187,13 @@
   },
   "active": "cf59a743f1e33c65",
   "lastOpenFiles": [
-    "mooc-ncsa/100-redis-backdoor.md",
-    "kali/1-setup-kali.md",
+    "mooc-ncsa/133_cmd-injection.md",
+    "mooc-ncsa/100_redis-backdoor.md",
+    "commix.md",
+    "mooc-ncsa/135_cmd-injection-filter.md",
+    "mooc-ncsa/134_cmd-injection-blind.md",
+    "kali/00_setup.md",
     "kali",
-    "mooc-ncsa/133-command-injection.md",
-    "mooc-ncsa/135-command-injection-filter.md",
-    "mooc-ncsa/134-command-injection-blind.md",
     "2025-11-21.md",
     "mooc-ncsa/ocsp",
     "mooc-ncsa/101-redis-slave-master-mode.md",
